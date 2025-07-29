@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="5/14/2024 10:17:25 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ESLAM"
+  DTS:CreatorName="ESLAM\aba"
+  DTS:DTSID="{11F84B97-0522-48BB-9F71-5E3F309D9D1F}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="16.0.5556.0"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{9B02B53E-31FA-4EBF-AB51-F4E05B49B6F9}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
